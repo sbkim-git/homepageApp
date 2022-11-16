@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/93f1449b-0dc7-43d1-b342-e512ac6c4a65/AppServices/subscriptions/93f1449b-0dc7-43d1-b342-e512ac6c4a65/resourceGroups/datasrep-homepage-rg/providers/Microsoft.Web/sites/datasrep-homepage",
+    "appService.deploySubpath": "."
+}
